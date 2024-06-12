@@ -38,8 +38,8 @@
             
         }
         .image {
-            height: 50%;
-            width: 40%;
+            height: 300px;
+            width: 500px;
             object-fit: cover;
         }
         .player-sections{
